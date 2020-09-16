@@ -27,6 +27,7 @@ function writeToLog(
   console.log(logEntries);
 }
 
+// Calc functions
 function add() {
   const enteredNumber = getUserNumberInput();
   const initialResult = currentResult;
