@@ -11,6 +11,7 @@ function creatAndWriteOutput(operator, resultBeforeCalc, calcNumber) {
   outputResult(currentResult, calcDescription);
 }
 
+// Generate and write calc log
 function writeToLog(
   operationIdentifier,
   prevResult,
